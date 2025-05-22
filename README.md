@@ -1,17 +1,16 @@
 # 🐍 Classic Snake Game
 
 ## Description
-A web-based version of the classic **Snake Game**, built using **p5.js** and JavaScript. The game uses keyboard controls, sound effects, and a clean grid-based layout.
+A p5.js and JavaScript web app that implements the well-known Snake Game. It uses keys on your keyboard, sounds and a neat grid arrangement for design.
 
 ## Live Demo
 🔗 [Play the Game](https://abdullahaljaberi.github.io/snake/)
 
 ## Features
-- Arrow key controls for movement
-- Crunch sound when food is eaten
-- Game over sound using SpongeBob meme
-- Score counter and automatic game restart
-- Responsive canvas sizing and improved visuals
+- Using arrow keys to move the snake
+- There is a crunch when you chomp on your food
+- Famous SpongeBob “Game Over” meme sound
+- There is a score point keeper and the next game starts on its own
 
 ## Technologies Used
 - JavaScript
