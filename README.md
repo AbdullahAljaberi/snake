@@ -3,7 +3,7 @@
 ## Description
 A p5.js and JavaScript web app that implements the well-known Snake Game. It uses keys on your keyboard, sounds and a neat grid arrangement for design.
 
-## Live Demo
+## Click on link to try the project! 
 🔗 [Play the Game](https://abdullahaljaberi.github.io/snake/)
 
 ## Features
